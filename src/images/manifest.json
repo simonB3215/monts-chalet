@@ -1,0 +1,343 @@
+{
+  "chalet-winter": {
+    "width": 3498,
+    "height": 1968,
+    "widths": [
+      480,
+      960,
+      1600,
+      2400
+    ],
+    "fallback": 960
+  },
+  "chalet-summer": {
+    "width": 3762,
+    "height": 2116,
+    "widths": [
+      480,
+      960,
+      1600,
+      2400
+    ],
+    "fallback": 960
+  },
+  "glacier-view": {
+    "width": 3498,
+    "height": 1968,
+    "widths": [
+      480,
+      960,
+      1600,
+      2400
+    ],
+    "fallback": 960
+  },
+  "chalet-winter-balconies": {
+    "width": 3498,
+    "height": 1968,
+    "widths": [
+      480,
+      960,
+      1600,
+      2400
+    ],
+    "fallback": 960
+  },
+  "terrace-massif-view": {
+    "width": 4609,
+    "height": 3470,
+    "widths": [
+      480,
+      960,
+      1600,
+      2400
+    ],
+    "fallback": 960
+  },
+  "living-room": {
+    "width": 4609,
+    "height": 3470,
+    "widths": [
+      480,
+      960,
+      1600,
+      2400
+    ],
+    "fallback": 960
+  },
+  "dining-kitchen": {
+    "width": 4609,
+    "height": 3470,
+    "widths": [
+      480,
+      960,
+      1600,
+      2400
+    ],
+    "fallback": 960
+  },
+  "terrace-valley-view": {
+    "width": 4609,
+    "height": 3470,
+    "widths": [
+      480,
+      960,
+      1600,
+      2400
+    ],
+    "fallback": 960
+  },
+  "double-bedroom": {
+    "width": 4609,
+    "height": 3470,
+    "widths": [
+      480,
+      960,
+      1600,
+      2400
+    ],
+    "fallback": 960
+  },
+  "living-room-window": {
+    "width": 4609,
+    "height": 3470,
+    "widths": [
+      480,
+      960,
+      1600,
+      2400
+    ],
+    "fallback": 960
+  },
+  "kitchen": {
+    "width": 4609,
+    "height": 3470,
+    "widths": [
+      480,
+      960,
+      1600,
+      2400
+    ],
+    "fallback": 960
+  },
+  "terrace": {
+    "width": 4609,
+    "height": 3470,
+    "widths": [
+      480,
+      960,
+      1600,
+      2400
+    ],
+    "fallback": 960
+  },
+  "living-room-kitchen": {
+    "width": 4609,
+    "height": 3470,
+    "widths": [
+      480,
+      960,
+      1600,
+      2400
+    ],
+    "fallback": 960
+  },
+  "dining-table": {
+    "width": 4609,
+    "height": 3470,
+    "widths": [
+      480,
+      960,
+      1600,
+      2400
+    ],
+    "fallback": 960
+  },
+  "bunk-room": {
+    "width": 4609,
+    "height": 3470,
+    "widths": [
+      480,
+      960,
+      1600,
+      2400
+    ],
+    "fallback": 960
+  },
+  "bathroom": {
+    "width": 4609,
+    "height": 3470,
+    "widths": [
+      480,
+      960,
+      1600,
+      2400
+    ],
+    "fallback": 960
+  },
+  "bench-panorama": {
+    "width": 4609,
+    "height": 3470,
+    "widths": [
+      480,
+      960,
+      1600,
+      2400
+    ],
+    "fallback": 960
+  },
+  "living-dining-wide": {
+    "width": 4609,
+    "height": 3470,
+    "widths": [
+      480,
+      960,
+      1600,
+      2400
+    ],
+    "fallback": 960
+  },
+  "dining-living": {
+    "width": 4609,
+    "height": 3470,
+    "widths": [
+      480,
+      960,
+      1600,
+      2400
+    ],
+    "fallback": 960
+  },
+  "living-room-angled": {
+    "width": 4609,
+    "height": 3470,
+    "widths": [
+      480,
+      960,
+      1600,
+      2400
+    ],
+    "fallback": 960
+  },
+  "living-room-stone-wall": {
+    "width": 4609,
+    "height": 3470,
+    "widths": [
+      480,
+      960,
+      1600,
+      2400
+    ],
+    "fallback": 960
+  },
+  "double-bedroom-wardrobe": {
+    "width": 4609,
+    "height": 3470,
+    "widths": [
+      480,
+      960,
+      1600,
+      2400
+    ],
+    "fallback": 960
+  },
+  "bunk-room-window": {
+    "width": 4609,
+    "height": 3470,
+    "widths": [
+      480,
+      960,
+      1600,
+      2400
+    ],
+    "fallback": 960
+  },
+  "bunk-room-third-bed": {
+    "width": 1105,
+    "height": 1474,
+    "widths": [
+      480,
+      960
+    ],
+    "fallback": 960
+  },
+  "entrance-hall": {
+    "width": 4609,
+    "height": 3470,
+    "widths": [
+      480,
+      960,
+      1600,
+      2400
+    ],
+    "fallback": 960
+  },
+  "entrance-hall-open": {
+    "width": 4609,
+    "height": 3470,
+    "widths": [
+      480,
+      960,
+      1600,
+      2400
+    ],
+    "fallback": 960
+  },
+  "dining-from-entrance": {
+    "width": 3470,
+    "height": 4609,
+    "widths": [
+      480,
+      960,
+      1600,
+      2400
+    ],
+    "fallback": 960
+  },
+  "entrance-door": {
+    "width": 3470,
+    "height": 4609,
+    "widths": [
+      480,
+      960,
+      1600,
+      2400
+    ],
+    "fallback": 960
+  },
+  "ski-room": {
+    "width": 1105,
+    "height": 1474,
+    "widths": [
+      480,
+      960
+    ],
+    "fallback": 960
+  },
+  "laundry-room": {
+    "width": 3470,
+    "height": 4609,
+    "widths": [
+      480,
+      960,
+      1600,
+      2400
+    ],
+    "fallback": 960
+  },
+  "separate-toilet": {
+    "width": 3470,
+    "height": 4609,
+    "widths": [
+      480,
+      960,
+      1600,
+      2400
+    ],
+    "fallback": 960
+  },
+  "logo-mark": {
+    "width": 251,
+    "height": 96
+  }
+}
